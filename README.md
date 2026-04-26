@@ -1,6 +1,4 @@
-<p>
-    <img alt='MapBiomas Venezuela' src='https://venezuela.mapbiomas.org/wp-content/uploads/sites/5/2024/11/venezuela-en-horizontal.png' width='200px'/>
-</p>
+![MapBiomas Venezuela](./mapbiomas-venezuela.png)
 
 # MapBiomas Venezuela – Resources and Tools
 
