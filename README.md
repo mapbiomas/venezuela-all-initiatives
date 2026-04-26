@@ -1,3 +1,7 @@
+<p>
+    <img alt='MapBiomas Venezuela' src='https://venezuela.mapbiomas.org/wp-content/uploads/sites/5/2024/11/venezuela-en-horizontal.png' width='200px'/>
+</p>
+
 # MapBiomas Venezuela – Resources and Tools
 
 MapBiomas Venezuela is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 3 covers the entire Venezuelan territory.
