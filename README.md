@@ -1,12 +1,12 @@
 # MapBiomas Venezuela – Resources and Tools
 
-MapBiomas Colombia is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 3 covers the entire Venezuelan territory.
+MapBiomas Venezuela is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 3 covers the entire Venezuelan territory.
 
 <!-- and includes a set of cross-cutting themes that map specific ecosystems and land uses at a detailed level. -->
 
 ## Available repositories
 
-- **Coverage**: Scripts for classifying land use and land cover across Colombia. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions.
+- **Coverage**: Scripts for classifying land use and land cover across Venezuela. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions.
 
 - **Natural vegetation loss and secondary vegetation**: Annual mapping of natural vegetation loss and secondary vegetation regrowth.
 
