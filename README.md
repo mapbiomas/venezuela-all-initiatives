@@ -6,13 +6,13 @@ MapBiomas Venezuela is an initiative that monitors land use and land cover chang
 
 ## Available repositories
 
-- **Coverage**: Scripts for classifying land use and land cover across Venezuela. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions.
+- [**Coverage**](https://github.com/mapbiomas/venezuela-collection-3): Scripts for classifying land use and land cover across Venezuela. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions.
 
-- **Natural vegetation loss and secondary vegetation**: Annual mapping of natural vegetation loss and secondary vegetation regrowth.
+- [**Natural vegetation loss and secondary vegetation**](https://github.com/mapbiomas/venezuela-sec-vegetation-veg-loss): Annual mapping of natural vegetation loss and secondary vegetation regrowth.
 
-- **Urban areas**:
+- [**Urban areas module**](https://github.com/mapbiomas/venezuela-urban-areas): Urban areas modules.
 
-- **Water**: Surface water dynamics monitoring on a monthly and annual basis.
+- [**Water**](https://github.com/mapbiomas/venezuela-water): Surface water dynamics monitoring on a monthly and annual basis.
 
 ## Getting Started
 
