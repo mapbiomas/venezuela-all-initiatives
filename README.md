@@ -26,4 +26,4 @@ If you are not familiar with MapBiomas workflows, check the [official methodolog
 
 For more information about MapBiomas Venezuela, visit [venezuela.mapbiomas.org](https://venezuela.mapbiomas.org).
 
-Para explorar los productos de los módulos disponibles, visite [plataforma.venezuela.mapbiomas.org](https://plataforma.venezuela.mapbiomas.org).
+To explore the products from the available modules, visit [plataforma.venezuela.mapbiomas.org](https://plataforma.venezuela.mapbiomas.org).
