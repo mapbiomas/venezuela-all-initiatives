@@ -26,4 +26,4 @@ To run any of the scripts you will need:
 
 If you are not familiar with MapBiomas workflows, check the [official methodology documentation](https://venezuela.mapbiomas.org/descripcion-general-de-la-metodologia/).
 
-For more information about MapBiomas Colombia, visit [venezuela.mapbiomas.org](https://venezuela.mapbiomas.org).
+For more information about MapBiomas Venezuela, visit [venezuela.mapbiomas.org](https://venezuela.mapbiomas.org).
