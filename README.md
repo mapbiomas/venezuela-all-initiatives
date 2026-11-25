@@ -2,17 +2,17 @@
 
 # MapBiomas Venezuela – Resources and Tools
 
-MapBiomas Venezuela is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 3 covers the entire Venezuelan territory.
+MapBiomas Venezuela is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 4 provides nationwide land use and land cover maps for 1985–2025.
 
 ## Available repositories
 
-- [**Coverage**](https://github.com/mapbiomas/venezuela-collection-3): Scripts for classifying land use and land cover across Venezuela. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions.
+- [**Coverage (Collection 4)**](https://github.com/mapbiomas/venezuela-collection-4) provides Google Earth Engine scripts for classifying land use and land cover across Venezuela. See [Collection 3](https://github.com/mapbiomas/venezuela-collection-3) for the previous series.
 
 - [**Natural vegetation loss and secondary vegetation**](https://github.com/mapbiomas/venezuela-sec-vegetation-veg-loss): Annual mapping of natural vegetation loss and secondary vegetation regrowth.
 
-- [**Urban areas**](https://github.com/mapbiomas/venezuela-urban-areas): Urban areas modules.
+- [**Urban areas (Collection 1)**](https://github.com/mapbiomas/venezuela-urban-collection-1) provides scripts for remapping land cover within urban and peri-urban areas in Venezuela and calculating urban area by city and country across South America.
 
-- [**Water**](https://github.com/mapbiomas/venezuela-water): Surface water dynamics monitoring on a monthly and annual basis.
+- [**Water (Collection 4)**](https://github.com/mapbiomas/venezuela-water-collection-4) provides scripts for monthly surface-water mapping, annual water-body classification, and glacier mapping.
 
 ## Getting Started
 
